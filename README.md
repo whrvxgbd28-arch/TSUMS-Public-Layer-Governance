@@ -1,12 +1,12 @@
-TSUMS Public-Layer Governance Framework
+# TSUMS Public-Layer Governance Framework
 
 Official public-layer DOI index, citation matrix, and canonical reference map for the TSUMS governance framework.
 
-Issued by: TSUMS Bunun Protocol Authority
-Originator: Ismahasan Vlian
-Company: TSUMS Bunun Governance Technologies Co., Ltd.
-Location: Taiwan
-Official contact: tsumsproton.me@pm.me
+- Issued by: TSUMS Bunun Protocol Authority
+- Originator: Ismahasan Vlian
+- Company: TSUMS Bunun Governance Technologies Co., Ltd.
+- Location: Taiwan
+- Official contact: tsumsproton.me@pm.me
 
 TSUMS is a Public-Layer Governance Execution Engine that converts risk, behavior, decision authority, evidence, and responsibility into replayable, auditable, and non-repudiable governance facts before irreversible loss occurs.
 
